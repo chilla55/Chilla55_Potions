@@ -1,0 +1,20 @@
+{
+  "item.minecraft.splash_potion.effect.anti_withering_2_potion": "Splash Potion of Anti Withering +",
+  "item.minecraft.lingering_potion.effect.anti_withering_potion": "Lingering Potion of Anti Withering",
+  "item.minecraft.tipped_arrow.effect.anti_mining_fatigue": "Arrow of Anti Mining Fatigue",
+  "effect.anti_withering_effect": "Anti Withering",
+  "item.minecraft.splash_potion.effect.anti_mining_fatigue": "Splash Potion of Anti Mining Fatigue",
+  "item.minecraft.splash_potion.effect.anti_withering_potion": "Splash Potion of Anti Withering",
+  "item.minecraft.potion.effect.anti_withering_2_potion": "Potion of Anti Withering +",
+  "item.minecraft.potion.effect.anti_mining_fatigue": "Potion of Anti Mining Fatigue",
+  "item.minecraft.splash_potion.effect.anti_mining_fatigueextend": "Splash Potion of Anti Mining Fatigue +",
+  "item.minecraft.lingering_potion.effect.anti_mining_fatigue": "Lingering Potion of Anti Mining Fatigue",
+  "item.minecraft.tipped_arrow.effect.anti_withering_potion": "Arrow of Anti Withering",
+  "item.minecraft.tipped_arrow.effect.anti_mining_fatigueextend": "Arrow of Anti Mining Fatigue +",
+  "effect.anti_mining_fatigue_efect": "Anti Mining Fatigue",
+  "item.minecraft.potion.effect.anti_withering_potion": "Potion of Anti Withering",
+  "item.minecraft.tipped_arrow.effect.anti_withering_2_potion": "Arrow of Anti Withering +",
+  "item.minecraft.lingering_potion.effect.anti_mining_fatigueextend": "Lingering Potion of Anti Mining Fatigue +",
+  "item.minecraft.lingering_potion.effect.anti_withering_2_potion": "Lingering Potion of Anti Withering +",
+  "item.minecraft.potion.effect.anti_mining_fatigueextend": "Potion of Anti Mining Fatigue +"
+}
